@@ -14,6 +14,7 @@ The Wellion Calla features:
 -Ultra-low power consumption
 -direct mini-USB Interface
 -RTC (Real-time-clock)
+-NTC temperature sensor
 -integrated high precision reference, ADC/DAC and Instrumentation AMP
 -external serial flash memory (Winbond 25x40avnig)
 
