@@ -7,7 +7,7 @@ Documentation regarding the PCB, schematics and needed datasheets can be found i
 
 The Wellion Calla features:
 
--full-color OLED display
+-full-color OLED display with SSD1353U4 (Displaycontroller) 160x132 pixel (active area 35mmx28mm)
 -Texas Instruments TI MSP430 CPU (MSP430FG4619) 16-Bit RISC
 -fully battery powered (two AAA-Cells)
 -3V Supply-Voltage
