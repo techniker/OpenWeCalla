@@ -1,0 +1,35 @@
+(c) 2012 by Bjoern Heller <tec@hellercom.de>
+
+This Project serves as documentation/demo for using the Wellion CALLA (Premium)
+blood glucose meter as a compact general purpose portable developement platform.
+
+Documentation regarding the PCB, schematics and needed datasheets can be found in /doc .
+
+The Wellion Calla features:
+
+-full-color OLED display
+-Texas Instruments TI MSP430 CPU (MSP430FG4619) 16-Bit RISC
+-fully battery powered (two AAA-Cells)
+-3V Supply-Voltage
+-Ultra-low power consumption
+-direct mini-USB Interface
+-RTC (Real-time-clock)
+-integrated high precision reference, ADC/DAC and Instrumentation AMP
+-external serial flash memory (Winbond 25x40avnig)
+
+So, where to get one?
+
+-eBay (~ 1-10 EUR)
+-Pharmacy (~ 19 EUR)
+
+Look out, there are several similar looking models w/o color-OLED like the "light".
+I don't even know if these are "compatible". Likely they have different CPU's.
+
+!!Disclaimer!!
+
+This project is not affiliated in any way with Wellion (Med Trust) or other companies.
+I'm not responsible for harm or damage that is done to anyone using this project.
+If you are dependent on your Wellion blood glucose meter, you should never open the device or try
+to flash firmware into the device.
+This project is NO enhancement for your Wellion meter nor will it EVER be able to measure blood glucose!!
+So far, you've been warned!
