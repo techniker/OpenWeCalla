@@ -44,7 +44,21 @@ MSP-FET430UIF
 
 ### Programming ###
 
+mspdebug uif -j -d /dev/ttyUSB0
+
 ### Device pinout ###
+
+#Connector CN2#
+
+from right 7 6 5 4 3 2 [1]
+
+1 - GND
+2 - RST 	(CPU pin 94)
+3 - TDO/TDI 	(cpu pin 90)
+4 - TDI/TCLK	(cpu pin 91)
+5 - TMS		(cpu pin 92)
+6 - TCK		(cpu pin 93)
+7 - VCC
 
 
 !!Disclaimer!!
