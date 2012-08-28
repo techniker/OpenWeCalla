@@ -48,7 +48,7 @@ mspdebug uif -j -d /dev/ttyUSB0
 
 ### Device pinout ###
 
-#Connector CN2#
+####Connector CN2####
 
 from right 7 6 5 4 3 2 [1]
 
