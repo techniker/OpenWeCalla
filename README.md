@@ -60,6 +60,16 @@ from right 7 6 5 4 3 2 [1]
 6 - TCK		(cpu pin 93)
 7 - VCC
 
+####Pin mapping####
+
+BUZZER - P2.3
+NTC(TP8) - P6.5
+NTC(TP13) - P6.6
+SER1(TP6) - P4.0 (TxD) mUSB pin 2
+SER2(TP7) - P4.1 (RxD) mUSB pin 3
+
+
+
 
 !!Disclaimer!!
 
